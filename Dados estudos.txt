@@ -1,3 +1,13 @@
 Início do Git - 11/02/2021
 Primeiro commit
-Nome do curso: Udemy Git e Github Essencial para o Desenvolvedor
+Nome do curso: Udemy Git e Github Essencial para o Desenvolvedort add .
+
+Camandos Git
+
+git push
+git commit -m "Texto"
+git add .
+git add nome_do_arquivo.xxx
+git status
+
+
